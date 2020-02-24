@@ -1,0 +1,65 @@
+[data-theme="dark"] {
+    background-color: #1b2a32 !important;
+    color: #eee;
+    background-image: none;
+}
+
+[data-theme="dark"] .bg-light {
+    background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-lite {
+    background-color: #343a40 !important;
+}
+
+[data-theme="dark"] .nav-link {
+    color: #49afd9 !important;
+}
+
+[data-theme="dark"] .social>a {
+    color: #49afd9;
+    border-color: #49afd9 !important;
+}
+
+[data-theme="dark"] .divider {
+    color: #448aff !important;
+}
+
+[data-theme="dark"] .hero-banner {
+    background-color: #29414e !important;
+}
+
+[data-theme="dark"] .nav-shadow {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+[data-theme="dark"] .heading {
+    color: #e9ecef!important;
+}
+
+[data-theme="dark"] p {
+    color: #adbbc4;
+}
+
+[data-theme="dark"] .name {
+    color: #8f9ba3!important;
+}
+
+[data-theme="dark"] .phone,
+.mail {
+    color: #49afd9!important;
+}
+
+[data-theme="dark"] .btn {
+    background-color: #49afd9 !important;
+    border: none;
+}
+
+[data-theme="dark"] .bg-white {
+    background-color: #22343c !important;
+}
+
+
+/* [data-theme="dark"] .bg-black {
+    background-color: #eee !important;
+} */
